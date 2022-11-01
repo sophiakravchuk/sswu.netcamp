@@ -53,22 +53,22 @@ namespace Homework_2_KravchukSophia
     {
         static void Main(string[] args)
         {
-            //Matrix m = new Matrix(3, 4);
-            //Matrix m2 = new Matrix(5, 5);
-            //Matrix m3 = new Matrix(5, 4);
+            Matrix m = new Matrix(3, 4);
+            Matrix m2 = new Matrix(5, 5);
+            Matrix m3 = new Matrix(5, 4);
 
 
-            //Console.WriteLine("Task 1.1\n");
-            //m.FillMatrixMethod1();
-            //Console.WriteLine(m + "\n");
+            Console.WriteLine("Task 1.1\n");
+            m.FillMatrixMethod1();
+            Console.WriteLine(m + "\n");
 
-            //Console.WriteLine("Task 1.2\n");
-            //m2.FillMatrixMethod2();
-            //Console.WriteLine(m2 + "\n");
+            Console.WriteLine("Task 1.2\n");
+            m2.FillMatrixMethod2();
+            Console.WriteLine(m2 + "\n");
 
-            //Console.WriteLine("Task 1.3\n");
-            //m3.FillMatrixMethod3();
-            //Console.WriteLine(m3 + "\n");
+            Console.WriteLine("Task 1.3\n");
+            m3.FillMatrixMethod3();
+            Console.WriteLine(m3 + "\n");
 
 
 
@@ -81,38 +81,38 @@ namespace Homework_2_KravchukSophia
             //                                {11, 1, 8, 6, 4, 11},
             //                                {3, 13, 9, 1, 14, 7} };
 
-            //int[,] matrix1 = new int[n, k];
-            //Random rnd = new Random();
-            //string matrixString = "";
-            //string elementStr;
-            //for (int i = 0; i < n; i++)
-            //{
-            //    for (int j = 0; j < k; j++)
-            //    {
-            //        int el = rnd.Next(0, 16);
-            //        matrix1[i, j] = el;
-            //        elementStr = el.ToString();
-            //        matrixString += elementStr;
-            //        for (int l = 0; l < (3 - elementStr.Length); l++)
-            //        {
-            //            matrixString += " ";
-            //        }
+            int[,] matrix1 = new int[n, k];
+            Random rnd = new Random();
+            string matrixString = "";
+            string elementStr;
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < k; j++)
+                {
+                    int el = rnd.Next(0, 16);
+                    matrix1[i, j] = el;
+                    elementStr = el.ToString();
+                    matrixString += elementStr;
+                    for (int l = 0; l < (3 - elementStr.Length); l++)
+                    {
+                        matrixString += " ";
+                    }
 
-            //    }
-            //    matrixString += "\n";
-            //}
+                }
+                matrixString += "\n";
+            }
 
-            //Console.WriteLine("Task 2\n");
+            Console.WriteLine("Task 2\n");
 
-            //Console.WriteLine(matrixString + "\n");
+            Console.WriteLine(matrixString + "\n");
 
-            //Task2 t = new Task2();
-            //Console.WriteLine(t.GetTheLongestLine(matrix1));
+            Task2 t = new Task2();
+            Console.WriteLine(t.GetTheLongestLine(matrix1)+"\n");
 
-
+            Console.WriteLine("Task 3*\n");
             Task3Cube cube = new Task3Cube(3);
             cube.FillCubeRandomly(0, 5);
-            Console.WriteLine(cube.ToString());
+            Console.WriteLine(cube.ToString()+"\n");
             Console.WriteLine(cube.CheckForHoles());
 
         }
