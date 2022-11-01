@@ -9,7 +9,7 @@ namespace Homework_2_KravchukSophia
     internal class Task2
     {
 
-        public Task2() { }
+
 
 
         //Задача 2.

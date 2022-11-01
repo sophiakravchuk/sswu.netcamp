@@ -81,7 +81,7 @@ namespace Homework_2_KravchukSophia
 
         public void FillCubeRandomly(int rangeStart, int rangeEnd) 
         {
-            Random rnd = new Random(59);
+            Random rnd = new Random();
             for (int i = 0; i < amountOfSides; i++)
             {
                 for (int j = 0; j < this.height; j++)
