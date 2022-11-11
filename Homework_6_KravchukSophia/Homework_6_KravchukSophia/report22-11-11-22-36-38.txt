@@ -1,0 +1,129 @@
+Report for Daniels, apartment 168 => 164 kWt
+Quarter I => 33 kWt
+	January  => 134		February  => 148		March  => 167	
+Quarter II => 25 kWt
+	April  => 180		May  => 199		June  => 205	
+Quarter III => 71 kWt
+	July  => 234		August  => 289		September  => 305	
+Quarter IV => 35 kWt
+	October  => 315		November  => 350	
+Whole price: 276 UAH
+
+
+
+Report for May, apartment 45 => 438 kWt
+Quarter I => 154 kWt
+	January  => 7856		February  => 7964		March  => 8010	
+Quarter II => 149 kWt
+	April  => 8150		May  => 8260		June  => 8299	
+Quarter III => 135 kWt
+	July  => 8365		August  => 8451		September  => 8500	
+Whole price: 736 UAH
+
+
+
+Report for Mueller, apartment 74 => 126 kWt
+Quarter I => 51 kWt
+	January  => 45		February  => 84		March  => 96	
+Quarter II => 56 kWt
+	April  => 120		May  => 158		June  => 176	
+Quarter III => 19 kWt
+	July  => 184		August  => 192		September  => 203	
+Whole price: 212 UAH
+
+
+
+Report for Joyce, apartment 96 => 10 kWt
+Quarter I => 0 kWt
+	January  => 85		February  => 85		March  => 85	
+Quarter II => 0 kWt
+	April  => 85		May  => 85		June  => 85	
+Quarter III => 10 kWt
+	July  => 90		August  => 96		September  => 100	
+Whole price: 17 UAH
+
+
+
+Report for Owens, apartment 94 => 0 kWt
+Quarter I => 0 kWt
+	January  => 0		February  => 0		March  => 0	
+Quarter II => 0 kWt
+	April  => 0		May  => 0		June  => 0	
+Quarter III => 0 kWt
+	July  => 0		August  => 0		September  => 0	
+Whole price: 0 UAH
+
+
+
+Report for Barnes, apartment 61 => 118 kWt
+Quarter I => 88 kWt
+	January  => 64		February  => 92		March  => 152	
+Quarter II => 30 kWt
+	April  => 168		May  => 187		June  => 198	
+Whole price: 198 UAH
+
+
+
+Report for Berg, apartment 66 => 52 kWt
+Quarter I => 52 kWt
+	January  => 143		February  => 168		March  => 195	
+Whole price: 87 UAH
+
+
+
+Report for Anderson, apartment 11 => 42 kWt
+Quarter I => 42 kWt
+	January  => 12		February  => 36		March  => 54	
+Whole price: 71 UAH
+
+
+
+Report for Richards, apartment 36 => 19 kWt
+Quarter I => 19 kWt
+	January  => 45		February  => 58		March  => 64	
+Whole price: 32 UAH
+
+
+
+Report for Tucker, apartment 158 => 29 kWt
+Quarter I => 29 kWt
+	January  => 94		February  => 109		March  => 123	
+Whole price: 49 UAH
+
+
+
+Report for Griffin, apartment 123 => 19 kWt
+Quarter I => 19 kWt
+	January  => 1982		February  => 1993		March  => 2001	
+Whole price: 32 UAH
+
+
+
+Report for Hopkins, apartment 52 => 162 kWt
+Quarter I => 162 kWt
+	January  => 2589		February  => 2647		March  => 2751	
+Whole price: 272 UAH
+
+
+
+Report for Jefferson, apartment 39 => 74 kWt
+Quarter I => 74 kWt
+	January  => 87		February  => 105		March  => 161	
+Whole price: 124 UAH
+
+
+
+Report for Osborn, apartment 41 => 33 kWt
+Quarter I => 33 kWt
+	January  => 21		February  => 35		March  => 54	
+Whole price: 55 UAH
+
+
+
+Report for Sullivan, apartment 12 => 35 kWt
+Quarter I => 35 kWt
+	January  => 89		February  => 105		March  => 124	
+Whole price: 59 UAH
+
+
+
