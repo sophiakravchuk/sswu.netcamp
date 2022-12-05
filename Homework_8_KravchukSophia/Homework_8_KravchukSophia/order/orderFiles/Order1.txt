@@ -1,0 +1,5 @@
+"Restaurant Delicia"
+Chicken 10
+Milk 20
+Cherry 5
+Banana 7

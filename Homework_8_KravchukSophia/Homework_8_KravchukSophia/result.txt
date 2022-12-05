@@ -1,0 +1,9 @@
+"Shop Silpo"
+Missing products:
+Meat => 100
+Cream => 2
+Strawberry => 8
+	This product can be replaced by: 
+	Banana => 1 in stock
+	Cherry => 1 in stock
+Water => 4

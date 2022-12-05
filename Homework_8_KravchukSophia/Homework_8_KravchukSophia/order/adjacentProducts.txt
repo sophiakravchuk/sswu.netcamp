@@ -1,0 +1,4 @@
+Banana-Cherry,Pear,Strawberry
+Cherry-Banana,Pear,Strawberry
+Pear-Banana,Cherry,Strawberry
+Strawberry-Banana,Pear,Cherry

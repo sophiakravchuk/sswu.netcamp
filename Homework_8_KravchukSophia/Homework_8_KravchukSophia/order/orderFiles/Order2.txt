@@ -1,0 +1,5 @@
+"Shop Silpo"
+Meat 100
+Cream 2
+Strawberry 8
+Water 4
