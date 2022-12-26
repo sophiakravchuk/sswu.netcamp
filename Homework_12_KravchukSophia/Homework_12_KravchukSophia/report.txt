@@ -1,0 +1,39 @@
+John Smith with status VIP was served by pay desk number 0, it took 1 seconds
+Alice Daniels with status Com was served by pay desk number 1, it took 1 seconds
+Sophia May with status VIP was served by pay desk number 2, it took 1 seconds
+Julia Mueller with status VIP was served by pay desk number 3, it took 1 seconds
+Peter Joyce with status VIP was served by pay desk number 4, it took 1 seconds
+Samuel Owens with status Com was served by pay desk number 5, it took 1 seconds
+Corey Scott with status VIP was served by pay desk number 6, it took 0 seconds
+Christian Berg with status Com was served by pay desk number 7, it took 1 seconds
+Sarah Anderson with status Com was served by pay desk number 8, it took 1 seconds
+David Richards with status Com was served by pay desk number 9, it took 0 seconds
+James Hopkins with status Com was waiting for 0 seconds for pay desk number 2, and was moved to desk number 3
+Mel Sutton with status Com was waiting for 0 seconds for pay desk number 2, and was moved to desk number 4
+Anna Sullivan with status Com was waiting for 0 seconds for pay desk number 5, and was moved to desk number 6
+Tyler Miranda with status Com was waiting for 0 seconds for pay desk number 5, and was moved to desk number 7
+Gilbert Cruz with status VIP was served by pay desk number 3, it took 1 seconds
+Carol Osborn with status VIP was served by pay desk number 4, it took 2 seconds
+Leonidas Patrick with status Com was served by pay desk number 5, it took 1 seconds
+Daniel Barnes with status Com was served by pay desk number 6, it took 3 seconds
+Hayden Lane with status Com was served by pay desk number 7, it took 2 seconds
+Kayden Watts with status Com was served by pay desk number 8, it took 1 seconds
+Jayden Day with status Com was served by pay desk number 9, it took 1 seconds
+James Hopkins with status Com was waiting for 0 seconds for pay desk number 3, and was moved to desk number 4
+Billie Morgan with status Com was waiting for 0 seconds for pay desk number 3, and was moved to desk number 5
+Anna Sullivan with status Com was waiting for 0 seconds for pay desk number 6, and was moved to desk number 7
+Jackie Munoz with status Com was waiting for 0 seconds for pay desk number 6, and was moved to desk number 8
+Mel Sutton with status Com was served by pay desk number 4, it took 2 seconds
+Carol Davis with status VIP was served by pay desk number 5, it took 1 seconds
+Tyler Miranda with status Com was served by pay desk number 7, it took 2 seconds
+Jamie Richardson with status Com was served by pay desk number 8, it took 2 seconds
+Sammy Pearce with status Com was served by pay desk number 9, it took 2 seconds
+James Hopkins with status Com was served by pay desk number 4, it took 3 seconds
+Billie Morgan with status Com was served by pay desk number 5, it took 3 seconds
+Anna Sullivan with status Com was served by pay desk number 7, it took 3 seconds
+Jackie Munoz with status Com was served by pay desk number 8, it took 3 seconds
+Fran Hudson with status Com was served by pay desk number 9, it took 3 seconds
+Camron Doyle with status Com was served by pay desk number 4, it took 7 seconds
+Glen Fox with status Com was served by pay desk number 5, it took 5 seconds
+Alexis Robinson with status Com was served by pay desk number 7, it took 6 seconds
+Rory Hayes with status Com was served by pay desk number 8, it took 5 seconds
